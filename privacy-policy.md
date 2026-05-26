@@ -8,7 +8,7 @@ Valorant Guide is an unofficial Valorant companion guide app developed by John R
 
 If you have questions, requests, or concerns about this Privacy Policy, contact:
 
-John Rei Bobis Cabuñas  
+John Rei Bobis Cabuñas<br>
 johnreicabunas@gmail.com
 
 ## Information We Collect
